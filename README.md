@@ -1,10 +1,10 @@
 # universita
-<p> An exaple of a Spring Boot application for a univerisity project <p>
+<p> An example of Spring Boot application <p>
 A sample usage of Controller - Service - Repository composition <p>
-Centralized exeption handling with @RestControllerAdvice <p>
+Centralized exception handling with @RestControllerAdvice <p>
 Usage of h2 in memory database <p> 
 
 Basic Docker file <p>
-Avoiding boilerplate coding with RestTemplateHelper class 
+Avoiding boilerplate coding with RestTemplate configuration
 
 
