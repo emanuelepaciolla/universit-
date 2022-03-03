@@ -30,9 +30,6 @@ public class GuideService {
     private RestaurantRepository restaurantRepository;
 
     @Autowired
-    private LocaleRepository localeRepository;
-
-    @Autowired
     private ReviewRepository reviewRepository;
 
 

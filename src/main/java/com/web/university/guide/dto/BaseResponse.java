@@ -3,6 +3,10 @@ package com.web.university.guide.dto;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Basic Object for response DTO classes, contains Body and a list of messages
+ * @param <T> response Body
+ */
 public  class BaseResponse<T> {
 
     private T body;

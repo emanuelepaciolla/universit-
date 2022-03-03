@@ -1,4 +1,4 @@
-package com.web.university.guide.service;
+package com.web.university.guide.helper;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
